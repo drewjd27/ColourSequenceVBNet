@@ -1,0 +1,2 @@
+# ColourSequenceVBNet
+This was my school asignment. So, this is like a game aplication. It will show user some colours, and we must memorize it in 8 seconds. Then user will be given some new colors and try to choose which colors that appears before. Actually, this is not perfect, i wanted the colors, that we need to memorize and the colors that we need to choose, are random. But i can't. So, this is it. I'll try my best day by day. Thank you to Guna Framework, it really help me to build this.
